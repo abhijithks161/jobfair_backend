@@ -1,0 +1,8 @@
+mongoHost: localhost
+mongoPort: 27017
+mongoDBName: jobFairApp
+uploadFolder: /home/dxuser/Uploads/
+uploadDir: /Uploads/
+hostIp: 10.10.1.203
+swagger:
+  resourcePackage: com.dexlock.jobfairapp.resources
